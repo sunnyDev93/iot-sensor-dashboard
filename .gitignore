@@ -1,0 +1,42 @@
+# Node modules
+/server/node_modules/
+/client/node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# dotenv environment variables file
+.env
+
+# MacOS specific
+.DS_Store
+
+# VSCode specific
+.vscode/
+
+# Build directories
+dist/
+build/
+
+# Temporary files
+tmp/
+temp/
+
+# IDE specific
+.idea/
+*.iml
+
+# Other
+*.swp
